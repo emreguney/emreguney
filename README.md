@@ -1,16 +1,21 @@
 # Emre Guney
 
-Lifecycle and CRM marketing. I run the programs and build the tooling around them — Braze automation, agent skills, and analysis pipelines.
+I'm a growth leader who builds with AI. I turn commercial problems into tools, agents, experiments, and operating systems across acquisition, activation, retention, and monetisation.
 
-### What I work on
+My background spans consumer growth, CRM and MarTech, experimentation, and analytics. I use Claude Code and Codex to turn repeatable marketing work into tools and workflows teams can use.
 
-- **Lifecycle programs** — onboarding, activation, winback, churn
-- **Braze** — campaigns, Canvases, Liquid, API and catalog work
-- **Experimentation** — test design, impact sizing, readouts
-- **Analysis** — SQL, cohorts, retention, campaign performance
+### What I build
+
+- **Agent skills** that turn recurring marketing work into reusable workflows
+- **Analysis pipelines** for customer behaviour, campaign performance, and growth decisions
+- **Decision tools** that help teams diagnose conversion problems and choose what to test
+- **Growth systems** connecting customer data, experimentation, messaging, and commercial outcomes
+
+### Current project
+
+- **[conversions.tools](https://conversions.tools/):** practical guidance for when people visit but don't sign up, try, or pay. Built for product managers, growth leads, and solo builders.
 
 ### Elsewhere
 
-- **[conversions.tools](https://conversions.tools/)** — what to use when people visit but don't sign up, try, or pay. For PMs, growth leads, and solo builders.
-- **[LinkedIn](https://www.linkedin.com/in/emreguney/)** — posts on lifecycle, CRM, and decision-making
+- **[LinkedIn](https://www.linkedin.com/in/emreguney/):** growth systems, AI-enabled marketing, and decision-making
 - **[X](https://x.com/emrreguney)**
