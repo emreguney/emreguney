@@ -17,5 +17,6 @@ My background spans consumer growth, CRM and MarTech, experimentation, and analy
 
 ### Elsewhere
 
+- **[CV](./Emre%20Guney%20CV.pdf):** consumer growth, commercial systems, CRM, and MarTech experience
 - **[LinkedIn](https://www.linkedin.com/in/emreguney/):** growth systems, AI-enabled marketing, and decision-making
 - **[X](https://x.com/emrreguney)**
