@@ -11,7 +11,7 @@ My background spans consumer growth, CRM and MarTech, experimentation, and analy
 - **Decision tools** that help teams diagnose conversion problems and choose what to test
 - **Growth systems** connecting customer data, experimentation, messaging, and commercial outcomes
 
-### Current projects
+### Shipped projects
 
 - **[conversions.tools](https://conversions.tools/):** practical guidance for when people visit but don't sign up, try, or pay. Built for product managers, growth leads, and solo builders.
 - **[Grunt Quest](https://the-buyer.vercel.app/):** a seven-minute pixel game about how people decide to buy. Eight stages, each one a mechanic that is one idea from Leon Abboud's article "How to become so good at marketing your competition thinks you're cheating". You talk to one buyer. If they have to decode a sentence, they leave. [Play it](https://the-buyer.vercel.app/) · [Source](https://github.com/emreguney/grunt-quest)
