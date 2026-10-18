@@ -14,6 +14,9 @@ My background spans consumer growth, CRM and MarTech, experimentation, and analy
 ### Shipped projects
 
 - **[conversions.tools](https://conversions.tools/):** practical guidance for when people visit but don't sign up, try, or pay. Built for product managers, growth leads, and solo builders.
+- **[Daily Rally](https://rallydaily.app/):** Wordle, but for tennis. One short tennis quiz a day. [Play it](https://rallydaily.app/) · [X](https://x.com/rallydailyapp)
+- **[Nudgeswipe](https://nudgeswipe.com/):** the psychology behind real products and marketing.
+- **[Braze Skills](https://github.com/emreguney/braze-skills):** agent skills for Claude Code, Cursor, and Codex, built for lifecycle marketers. Turn an API into Connected Content Liquid, derive profile attributes in a User Update step, and turn a commercial question into a defensible Braze analysis.
 - **[Grunt Quest](https://the-buyer.vercel.app/):** a seven-minute pixel game about how people decide to buy. Eight stages, each one a mechanic that is one idea from Leon Abboud's article "How to become so good at marketing your competition thinks you're cheating". You talk to one buyer. If they have to decode a sentence, they leave. [Play it](https://the-buyer.vercel.app/) · [Source](https://github.com/emreguney/grunt-quest)
 
 ### Elsewhere
